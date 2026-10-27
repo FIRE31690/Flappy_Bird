@@ -1,0 +1,93 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "NEKROS",
+      "activo": true,
+      "mejor_puntaje": 11,
+      "partidas_jugadas": 1,
+      "monedas": 4,
+      "monedas_totales": 4,
+      "nivel": 1,
+      "skins": [
+        "clasico"
+      ],
+      "skin_activa": "clasico"
+    },
+    {
+      "id": 2,
+      "nombre": "Jader",
+      "activo": true,
+      "mejor_puntaje": 44,
+      "partidas_jugadas": 3,
+      "monedas": 28,
+      "monedas_totales": 28,
+      "nivel": 1,
+      "skins": [
+        "clasico"
+      ],
+      "skin_activa": "clasico"
+    },
+    {
+      "id": 3,
+      "nombre": "diana",
+      "activo": true,
+      "mejor_puntaje": 42,
+      "partidas_jugadas": 1,
+      "monedas": 24,
+      "monedas_totales": 24,
+      "nivel": 1,
+      "skins": [
+        "clasico"
+      ],
+      "skin_activa": "clasico"
+    }
+  ],
+  "partidas": [
+    {
+      "id": 1,
+      "jugador_id": 1,
+      "puntaje": 11,
+      "dificultad": "normal",
+      "medalla": "bronce",
+      "monedas": 4,
+      "fecha": "2026-10-21 14:09:23"
+    },
+    {
+      "id": 2,
+      "jugador_id": 2,
+      "puntaje": 44,
+      "dificultad": "normal",
+      "medalla": "oro",
+      "monedas": 16,
+      "fecha": "2026-10-21 15:39:37"
+    },
+    {
+      "id": 3,
+      "jugador_id": 3,
+      "puntaje": 42,
+      "dificultad": "dificil",
+      "medalla": "oro",
+      "monedas": 24,
+      "fecha": "2026-10-21 15:41:30"
+    },
+    {
+      "id": 4,
+      "jugador_id": 2,
+      "puntaje": 14,
+      "dificultad": "normal",
+      "medalla": "bronce",
+      "monedas": 4,
+      "fecha": "2026-10-21 15:43:57"
+    },
+    {
+      "id": 5,
+      "jugador_id": 2,
+      "puntaje": 24,
+      "dificultad": "normal",
+      "medalla": "plata",
+      "monedas": 8,
+      "fecha": "2026-10-21 15:44:45"
+    }
+  ]
+}
