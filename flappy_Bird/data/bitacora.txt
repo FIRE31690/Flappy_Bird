@@ -1,9 +1,0 @@
-2026-10-21 14:08:49 | Jugador registrado: NEKROS (id 1)
-2026-10-21 14:09:23 | Partida #1: NEKROS hizo 11 en normal -> medalla bronce, +4 monedas
-2026-10-21 15:38:13 | Jugador registrado: jader (id 2)
-2026-10-21 15:39:37 | Partida #2: jader hizo 44 en normal -> medalla oro, +16 monedas
-2026-10-21 15:40:10 | Jugador registrado: diana (id 3)
-2026-10-21 15:41:30 | Partida #3: diana hizo 42 en dificil -> medalla oro, +24 monedas
-2026-10-21 15:43:57 | Partida #4: jader hizo 14 en normal -> medalla bronce, +4 monedas
-2026-10-21 15:44:45 | Partida #5: jader hizo 24 en normal -> medalla plata, +8 monedas
-2026-10-21 15:47:11 | Jugador 2 renombrado: jader -> Jader

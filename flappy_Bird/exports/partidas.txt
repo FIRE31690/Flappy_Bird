@@ -1,6 +1,0 @@
-ID  JUGADOR         PUNTAJE  DIFICULTAD  MEDALLA   MONEDAS  FECHA
-1   NEKROS          11       normal      bronce    4        2026-10-21 14:09:23
-2   jader           44       normal      oro       16       2026-10-21 15:39:37
-3   diana           42       dificil     oro       24       2026-10-21 15:41:30
-4   jader           14       normal      bronce    4        2026-10-21 15:43:57
-5   jader           24       normal      plata     8        2026-10-21 15:44:45

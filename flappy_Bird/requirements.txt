@@ -1,3 +1,0 @@
-# Solo Windows necesita instalar algo: curses no viene incluido allí.
-# En Linux y macOS no hace falta instalar nada.
-windows-curses; sys_platform == "win32"
