@@ -52,14 +52,35 @@ Proyecto integrador **EA01 · SENA ADSO · Ficha 3388087 · Team 1**.
 Desde la carpeta raíz del proyecto (`flappy_gestor/`):
 
 ```bash
-# Solo en Windows (una vez):
+# Comandos para ejecutar Flappy Bird + Gestor en Windows y Linux
+
+**Windows:** Abrir CMD o PowerShell, ingresar a la carpeta principal del proyecto y ejecutar los siguientes comandos:
+
+```bash
+# Instalar las dependencias (una sola vez)
 pip install -r requirements.txt
 
-# Aplicación completa (juego + gestor):
+# Ejecutar la aplicación completa (juego + gestor)
 python main.py
 
-# Solo el gestor, sin el juego:
+# Ejecutar solo el gestor, sin el juego
 python -c "from gestor.interfaz import ejecutar; ejecutar()"
+```
+
+**Linux:** Abrir la terminal, ingresar a la carpeta principal del proyecto y ejecutar los siguientes comandos:
+
+```bash
+# Instalar las dependencias (una sola vez)
+python3 -m pip install -r requirements.txt
+
+# Ejecutar la aplicación completa (juego + gestor)
+python3 main.py
+
+# Ejecutar solo el gestor, sin el juego
+python3 -c "from gestor.interfaz import ejecutar; ejecutar()"
+```
+
+**Nota:** Los comandos deben ejecutarse desde la carpeta raíz `flappy_gestor`, donde se encuentra el archivo `main.py` y el archivo `requirements.txt`.
 ```
 
 Al iniciar, el sistema carga los datos de `data/flappy.json`:
